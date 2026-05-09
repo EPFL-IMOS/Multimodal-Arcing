@@ -38,6 +38,11 @@ The code and dataset will be available soon.
 ## Dataset
 The dataset is available at https://huggingface.co/datasets/hdong51/Open-AD/tree/main.
 
+
+<div style="text-align:center">
+<img src="examples.png"  width="80%" height="100%">
+</div>
+
 ## Citation
 If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2602.08792):
 
