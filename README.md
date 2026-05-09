@@ -32,8 +32,11 @@ Proposed solution for arcing detection in pantograph-catenary systems with image
 
 
 
-## Citation
+## Code
 The code and dataset will be available soon.
+
+## Dataset
+The dataset is available at https://huggingface.co/datasets/hdong51/Open-AD/tree/main.
 
 ## Citation
 If you find our work useful in your research please consider citing our [paper](https://arxiv.org/abs/2602.08792):
